@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Software engineer with over 15 years of experience (but hey, experience does not equate to expertise), interested in delivering quality software for the greater good. Currently contracting in Manchester, offering reduced rates for good causes!
