@@ -10,7 +10,7 @@ I guess the key points to remember when putting off writing something down are:
 
 * very few people are going to be reading this, if any
 * if someone I cared about thought less of me because of something I wrote, then they can either talk to me about it, and we can discuss why, or I should re-consider why I care about them
-* I'm not a unique snowflake; so if I find something useful/interesting, someone else out there will too
+* I'm not a beautiful and unique snowflake; so if I find something useful/interesting, someone else out there will too
 * Writing stuff down is to help me remember useful stuff, or accepting it and removing it from swirling around my head for too long
 
 Hopefully, this will not turn into a John Doe from Se7en diatribe on modern life...
