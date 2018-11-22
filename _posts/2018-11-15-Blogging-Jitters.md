@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging jitters
+title: Blogging Jitters
 tags: imposter syndrome, anxiety, catastrophising
 ---
 
