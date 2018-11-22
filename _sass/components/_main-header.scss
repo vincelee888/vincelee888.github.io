@@ -1,0 +1,21 @@
+.main-header {
+  background: $black;
+  color: $white;
+  
+  @include mq($from: m) {
+    float: left;
+    width: 33%;
+    height: 100vh;
+  }
+}
+
+.main-header__title {
+  font-size: 40px;
+  color: $grey;
+  margin-bottom: 0;
+  border: none;
+}
+
+.main-header__strapline {
+  font-style: italic;
+}

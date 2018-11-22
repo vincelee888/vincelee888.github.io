@@ -1,0 +1,15 @@
+.main-content {
+  @include mq($from: m) {
+    padding-top: 30px;
+    margin-left: 33%;
+  }
+
+  p:first-of-type {
+    font-weight: bold;
+  }
+
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+}

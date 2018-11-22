@@ -1,0 +1,62 @@
+$helvetica: Helvetica, Arial, sans-serif;
+$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$georgia: Georgia, serif;
+$vidaloka: 'Vidaloka', serif;
+
+body {
+  font: 14px/1.4 $helvetica;
+  color: $darkGrey;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $vidaloka;
+  color: $darkerGrey;
+  font-weight: bold;
+
+  line-height: 1.2;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  border-bottom: 1px solid $darkerGrey;
+}
+
+h1 {
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+  color: $grey;
+}
+
+p {
+  margin: 15px 0;
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: $grey;
+  &:hover, &:active {
+    color: $darkGrey;
+  }
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+}
