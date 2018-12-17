@@ -1,12 +1,6 @@
 .main-header {
   background: $black;
-  color: $white;
-  
-  @include mq($from: m) {
-    float: left;
-    width: 33%;
-    height: 100vh;
-  }
+  color: $brand-primary;
 }
 
 .main-header__title {

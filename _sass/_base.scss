@@ -9,7 +9,11 @@ body {
   background: $white;
   position: relative;
   min-height: 100%;
-  padding-bottom: 6em;
+
+  @include mq($from: m) {
+    display: flex;
+    align-items: stretch;
+  }
 }
 
 // Fixes images in popup boxes from Google Translate

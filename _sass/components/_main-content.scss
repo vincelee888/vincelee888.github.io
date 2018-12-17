@@ -1,7 +1,8 @@
 .main-content {
   @include mq($from: m) {
-    padding-top: 30px;
-    margin-left: 33%;
+    background: $brand-primary;
+    width: 100%;
+    padding: 0;
   }
 
   p:first-of-type {

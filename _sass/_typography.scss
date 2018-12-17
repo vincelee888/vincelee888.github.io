@@ -8,7 +8,7 @@ body {
   color: $darkGrey;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, {
   font-family: $vidaloka;
   color: $darkerGrey;
   font-weight: bold;
@@ -16,12 +16,17 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   margin: 1em 0 15px;
   padding: 0;
+}
 
-  border-bottom: 1px solid $darkerGrey;
+h3, h4, h5, h6 {
+  font-family: $helveticaNeue;
+  font-weight: bold;
 }
 
 h1 {
+  border-bottom: 1px solid $darkerGrey;
   font-size: 30px;
+  color: black;
   a {
     color: inherit;
   }
@@ -32,11 +37,11 @@ h2 {
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16px;
   color: $grey;
 }
 
@@ -47,9 +52,9 @@ p {
 a {
   text-decoration: none;
   cursor: pointer;
-  color: $grey;
+  color: $brand-primary;
   &:hover, &:active {
-    color: $darkGrey;
+    filter: brightness(120%);
   }
 }
 
@@ -59,4 +64,8 @@ strong, b {
 
 img {
   max-width: 100%;
+}
+
+ul, ol {
+  margin-bottom: 20px;
 }
