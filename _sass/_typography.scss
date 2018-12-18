@@ -4,12 +4,11 @@ $georgia: Georgia, serif;
 $vidaloka: 'Vidaloka', serif;
 
 body {
-  font: 14px/1.4 $helvetica;
+  font: 14px/1.4 $vidaloka;
   color: $darkGrey;
 }
 
 h1, h2, {
-  font-family: $vidaloka;
   color: $darkerGrey;
   font-weight: bold;
 
@@ -19,7 +18,6 @@ h1, h2, {
 }
 
 h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
   font-weight: bold;
 }
 
