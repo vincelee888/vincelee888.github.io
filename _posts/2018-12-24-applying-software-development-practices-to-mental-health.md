@@ -13,7 +13,7 @@ This period has coincided with a better awareness of my mental state and methods
 
 ### In Software
 
-To me, being agile in software is enabling the team to react quickly and safely to change; be it new features or fixing bugs. This is opposed to massive up-front design, and delivering the final product after years of development. Such "big bang" delivery is susceptible of being no longer fit for purpose, or unforeseen bugs being found when used by real users. 
+To me, being agile in software is enabling the team to react quickly and safely to change; be it new features or fixing bugs. This is opposed to "big bang" projects that drag on and end up being unfit for purpose when they finally get released; or simple updates being fraught with anxiety, where each release is susceptible unknown side effects or human errors in the release process.
 
 Being agile looks to reduce the feedback time on development, helping the team deliver useful, working software as soon as possible. We can employ a number of practices to help us achieve this, and improve upon over time.
 
