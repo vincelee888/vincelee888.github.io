@@ -2,6 +2,7 @@
 layout: post
 title: Blogging Jitters
 tags: imposter syndrome, anxiety, catastrophising
+comments: true
 ---
 
 My trouble with writing a blog, is the fear of someone I know reading it and thinking worse of me, or some unknown person would read it, and think "who does this guy think he is?". I remember putting an off-hand comment about how I felt at the time about being a British-born Chinese on a personal website once, and then my mum read it and got upset.
