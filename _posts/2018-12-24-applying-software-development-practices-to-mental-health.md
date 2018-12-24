@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Applying Software Development Practices to Mental Health
+comments: true
 ---
 
 In recent years, I have particularly enjoyed working in teams and organisations who embrace an agile approach to delivering software. In the best ones, I've felt everyone is open with each other, and all focussed towards creating products effectively. 
