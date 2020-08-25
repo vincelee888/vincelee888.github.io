@@ -30,4 +30,6 @@ Process of leadership is iterative, depending on how each of the factors interac
 
 ![Cheat Sheet](https://miro.medium.com/max/700/1*Hr-7aM2-IW34edpBtnKWQQ.jpeg)
 
-All components eventually evolve from left to right; we are all standing on the shoulders of giants!
+In the climate of competition, all components eventually evolve from left to right.
+
+When a component is to left the map, use fast iterative processes to explore, test and validate assumptions. As it evolves to ubiquity, move towards more formalised frameworks to reduce deviation from tried and tested runbooks.
