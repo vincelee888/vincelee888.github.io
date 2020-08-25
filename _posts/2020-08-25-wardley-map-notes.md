@@ -1,4 +1,5 @@
-# Wardley Maps Notes
+Notes on reading about how to map the landscape of a given domain with Wardley Maps.
+
 https://learnwardleymapping.com/book/
 
 ## Sun Tzu's Five Factors when facing an opponent
