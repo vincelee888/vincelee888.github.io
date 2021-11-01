@@ -9,10 +9,10 @@ tags:
 
 I was recently introduced to Actionable Agile, a tool to gather metrics around your delivery process. it comes as a plugn for jira and imports your data to analyse and report on 4 metrics:
 
-* cycle time - the time it takes for a work item to be deployed to live; low is good
-* throughput - the rate at which items are deployed to live over a given time period; high is good
-* work in progress (WIP) - the number of work items that are in flight and not yet completed; low is good
-* work item age - the time a given work item is in progress for; low is good
+* __cycle time__ - the time it takes for a work item to be deployed to live; low is good
+* __throughput__ - the rate at which items are deployed to live over a given time period; high is good
+* __work in progress (WIP)__ - the number of work items that are in flight and not yet completed; low is good
+* __work item age__ - the time a given work item is in progress for; low is good
 
 We should assume we are working on the change that is deemed most valuable to our users, and our work items are deemed 'done' when it has been released to the production environment - 
 
