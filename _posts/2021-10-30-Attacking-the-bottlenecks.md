@@ -8,7 +8,7 @@ tags:
   - estimation
 ---
 
-I was recently introduced to Actionable Agile, a tool to gather metrics around your delivery process. it comes as a plugn for jira and imports your data to analyse and report on 4 metrics:
+I was recently introduced to [Actionable Agile](https://actionableagile.com/), a tool to gather metrics around your delivery process. it comes as a plugn for jira and imports your data to analyse and report on 4 metrics:
 
 * __cycle time__ - the time it takes for a work item to be deployed to live; low is good
 * __throughput__ - the rate at which items are deployed to live over a given time period; high is good
