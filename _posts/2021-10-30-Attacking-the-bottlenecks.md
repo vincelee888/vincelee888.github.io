@@ -26,10 +26,10 @@ Reducing the size of work items reduces the amount the new work deviates from th
 
 We can compare these with another modern set of metrics from the DevOps Research and Assessment (DORA) group aka the Accelerate metrics: 
 
-* lead time - the time it takes for a work item to be released to the customer; this is AA's cycle time.
-* number of deployments - the number of deployments to live that are made over a given time; this is the same as AA's throughput
-* change failure rate - the ratio of unsuccessful to successful deployments
-* mean time to recovery (MTTR) - the time taken to resolve and issue in production
+* __lead time__ - the time it takes for a work item to be released to the customer; this is AA's cycle time.
+* __number of deployments__ - the number of deployments to live that are made over a given time; this is the same as AA's throughput
+* __change failure rate__ - the ratio of unsuccessful to successful deployments; this relates to work item age, in that smaller changes are likely to have a smaller chance of going wrong 
+* __mean time to recovery (MTTR)__ - the time taken to resolve an issue in production; again, deploying smaller changes reduces the blast radius of faults and easier to identify which change caused the issue.
 
 ## Monte Carlo or bust
 
