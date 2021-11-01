@@ -14,7 +14,13 @@ I was recently introduced to Actionable Agile, a tool to gather metrics around y
 * work in progress (WIP) - the number of work items that are in flight and not yet completed; low is good
 * work item age - the time a given work item is in progress for; low is good
 
-Assuming we are working on the change that is deemed most valuable to our users, and our work items are deemed 'done' when it has been released to the production environment - the faster we get that valuable change out to our users the better. Reducing the amount of work going on at the same time (WIP) reduces the chance of time-wasting context switching when we have to re-work an item because of bugs, merge conflicts and determining which change has caused a bug. Reducing the size of work items reduces the amount the new work deviates from the working software, and reduces the time taken to receive feedback on that change.
+We should assume we are working on the change that is deemed most valuable to our users, and our work items are deemed 'done' when it has been released to the production environment - 
+
+Given this caveat, the faster we get that valuable change out to our users the better, as we start to receive feedback sooner, and the customer can make use of the new change, be it a new feature, bug fix, or UX tweak.
+
+Reducing the amount of work going on at the same time (WIP) reduces the chance of time-wasting context switching when we have to re-work an item because of bugs, merge conflicts and determining which change has caused a bug. 
+
+Reducing the size of work items reduces the amount the new work deviates from the working software, and reduces the time taken to receive feedback on that change.
 
 ## What about Accelerate?
 
