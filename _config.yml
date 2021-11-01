@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Vince Lee"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/73041?s=400&u=bd1f848bcb036907932eb63689509a727287cc40&v=4"
   bio    : "Striving to be functional."
   links:
     - label: "Website"
