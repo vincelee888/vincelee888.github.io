@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Attack the Bottleneck
 categories:
   - software
