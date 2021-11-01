@@ -5,6 +5,7 @@ categories:
 tags:
   - agile delivery
   - metrics
+  - estimation
 ---
 
 I was recently introduced to Actionable Agile, a tool to gather metrics around your delivery process. it comes as a plugn for jira and imports your data to analyse and report on 4 metrics:
