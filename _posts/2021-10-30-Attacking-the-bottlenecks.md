@@ -14,7 +14,7 @@ I was recently introduced to Actionable Agile, a tool to gather metrics around y
 * __work in progress (WIP)__ - the number of work items that are in flight and not yet completed; low is good
 * __work item age__ - the time a given work item is in progress for; low is good
 
-We should assume we are working on the change that is deemed most valuable to our users, and our work items are deemed 'done' when it has been released to the production environment - 
+We should assume we are working on the change that is deemed most valuable to our users, and our work items are deemed 'done' when it has been released to the production environment. 
 
 Given this caveat, the faster we get that valuable change out to our users the better, as we start to receive feedback sooner, and the customer can make use of the new change, be it a new feature, bug fix, or UX tweak.
 
@@ -31,7 +31,12 @@ We can compare these with another modern set of metrics from the DevOps Research
 * change failure rate - the ratio of unsuccessful to successful deployments
 * mean time to recovery (MTTR) - the time taken to resolve and issue in production
 
-# Glossary
+## Monte Carlo or bust
 
-* Production/Live - the environment that your users access eg not a test environment
-* Context switching - the negative effect of having to pull yourself out of the flow of one piece of work, and get up to speed with another. Usually caused by "multi-tasking", having to fix a bug in a recent release, or being interrupted by the dreaded "just a quick one...".
+Another great feature of Actionable Agile is its Monte Carlo forecasting. This uses the analysis of historical work to predict when work will be complete by the in future. TO me, working with agility is to be flexible to change, but also predictable, in order to align work with wider concerns such as marketing campaigns and spinning up teams to support physical processes.
+
+Past experiences of attempting to find expected delivery dates often involved scrum poker, which comes with a lot of baggage, misunderstanding and requires time for the team to settle into a routine. Estimation often becomes a deadline, with teams expected to keep to these dates, even when requirements were minimal at the time!
+
+### Should we still estimate?
+
+Despite being an advocate for #noestimates, it was pointed out to me that the process of estimation is still useful to ensure all the team know what the work item in question involves, and serves as a discussion point to discover unknowns.
