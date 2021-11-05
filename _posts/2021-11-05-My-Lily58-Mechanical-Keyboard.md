@@ -29,4 +29,4 @@ I originally went for the blank DSA keycaps from mechboards, but found the surfa
 * Kailh hotswaps with Cherry Browns
 * OEM-profile thick PBT keycaps in carbon colourway
 
-It took me a while to get it all soldered correctly, but the split is great to type with, and I'm slowly getting used to the layered layout. I have since bought two staggered split boards, but will give this one a try as the "daily driver", and see how it goes!
+It took me a while to get it all soldered correctly, but the split is great to type with, and I'm slowly getting used to the layered layout. I have since bought two staggered split boards, so the worries of expense and plastic waste have not been alleviated, but it feels and sounds a lot nicer to type!
