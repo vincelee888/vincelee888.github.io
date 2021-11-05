@@ -13,9 +13,17 @@ Throughout my mental health journey over the years, I have come to realise the o
 
 # Observability (o11y)
 
+## In Software
+
 Observability pertains to exposing and visualising how your software is performing, both from a technical viewpoint eg latency and errors, and from a business viewpoint eg orders per week trend.
 
-My current engagement uses DataDog to great effect, aggregating logs and traces from AWS to build dashboards that visualise how the system is working. Embracing a DevOps culture fosters a "you build it, you run it" mentality, whereby the team is responsible for the keeping the software running.
+My current engagement uses DataDog to great effect, aggregating logs and traces from AWS, as well as user activity to build dashboards that visualise how the system is working. Embracing a DevOps culture fosters a "you build it, you run it" mentality, whereby the team is responsible for the keeping the software running.
+
+When there is a known issue that happens regularly, we can compose runbooks that give us a detailed plan on how to remediate the issue. This can then be given to out of hours support to relieve the pressure on the delivery team, enabling them to put in a longer term fix.
+
+## For You
+
+In the same way we want to know when are system is starting to fail before it has a wide effect on our users, we want to be able to recognise when we start to  ;think and behave in a way that might lead to undesirable outcomes. A tool which we can use is being mindful of our thoughts and physical feelings. 
 
 # Ubiquitous Language
 
@@ -31,15 +39,6 @@ Context is king; it gives rise to the consultant's default response to all quest
 
 Context is also important when slicing up the system into bounded domains, and layers within an application. Sharing too much information and responsibilities make code and systems difficult to understand and change.
 
-# Root Cause Analysis
+---
 
-Inevitably, all systems fail. The sign of a good system and teams that support it, is the speed at which the problem is identified and fixed. Once operations have returned to normal, it is good to perform a root cause analysis, to ascertain why it happened. (Nowadays, this is referred to as a blameless post-mortem, but in a good team and organisation, no blame should be the default!)
-
-It is not enough to act upon "the site went down because the newbie deleted the production database!". An3 investigation should take place to find the root cause. A standard method is Five Whys - ask why something happened, and after five iterations you should have found a number of actions that will return higher value than the immediate problem. 
-
-
-# Ease of Change
-
-# Systems Thinking
-
-# From Project to Product
+I'll follow this up with a future post with some more themes.
