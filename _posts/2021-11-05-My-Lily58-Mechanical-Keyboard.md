@@ -27,6 +27,11 @@ I originally went for the blank DSA keycaps from mechboards, but found the surfa
 
 * Lily58 pro with acrylic case
 * Kailh hotswaps with Cherry Browns
-* OEM-profile thick PBT keycaps in carbon colourway
+* ~~OEM-profile thick PBT keycaps in carbon colourway~~
+* XDA keycaps in cream/orange/grey
 
 It took me a while to get it all soldered correctly, but the split is great to type with, and I'm slowly getting used to the layered layout. I have since bought two staggered split boards, so the worries of expense and plastic waste have not been alleviated, but it feels and sounds a lot nicer to type!
+
+---
+
+Update: Inspired by someone at work, I'm now using a Colemak-DH layout. Pretty slow going but can see the potential!
