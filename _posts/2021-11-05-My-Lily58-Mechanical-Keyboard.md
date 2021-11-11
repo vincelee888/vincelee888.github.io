@@ -34,4 +34,4 @@ It took me a while to get it all soldered correctly, but the split is great to t
 
 ---
 
-Update: Inspired by someone at work, I'm now using a ~~Colemak-DH~~ [https://workmanlayout.org/](Workman layout). Pretty slow going but can see the potential!
+Update: Inspired by someone at work, I'm now using the ~~Colemak-DH~~ [Workman layout](https://workmanlayout.org/). Pretty slow going but can see the potential!
