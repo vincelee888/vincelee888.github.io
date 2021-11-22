@@ -24,3 +24,5 @@ Discounting the data entry job I took whilst I looked for a job ("I can type fas
 This first place had countless crappy clients, won over by the sales pitch of a Nigel Farage-wannabe, and - much like Brexit - was based on lies and fucking people over. Many a day was spent dealing with clients who expected the Earth for a couple of grand, trying to photoshop blurry photos of metal widgets, and teaching myself vb6. I spent almost 5 years there, with few pay rises,  and despite being the only one who knew how to code. During that time I only interviewed at one other place - imposter syndrome keeping me firmly rooted. 
 
 3/10 - good laugh at times, but wasted so much of my time and energy.
+
+# 
