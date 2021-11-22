@@ -4,6 +4,7 @@ categories:
   - software
 tags:
   - career
+published: true
 ---
 
 This post records my career in software so far, and is mostly for catharsis.
@@ -17,3 +18,7 @@ I eventually got a job for a tiny firm that was affiliated with the university, 
 6/10 - good experience, but self-doubt and poor interviewing skills left me a big fish in a small pond
 
 # First Job After Graduation
+
+Discounting the data entry job I took whilst I looked for a job ("I can type fast, here's something I will be good at! 🤦), my first proper job out of university was at a small web agency in the shithole of Leigh. I must have only interviewed at one or two places, and must have been so relieved to have got an offer, I just took it; I even turned down an interview at a proper agency a friend at the time arranged for me!
+
+Thus began a string of medium fish, in a shit-strewn pond jobs in Leigh. This first place had countless crappy clients, won over by the sales pitch of a Nigel Farage-wannabe, and much like Brexit, was based on bullshitt, and fucking people over.
