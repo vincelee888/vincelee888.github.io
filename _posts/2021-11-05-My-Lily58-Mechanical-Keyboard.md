@@ -26,9 +26,10 @@ A quick duckduckgo search will find you a build guide, and to flash the controll
 I originally went for the blank DSA keycaps from mechboards, but found the surface area too small. My current setup is:
 
 * Lily58 pro with acrylic case
-* Kailh hotswaps with Cherry Browns
+* ~~Kailh hotswaps with Cherry Browns~~
 * ~~OEM-profile thick PBT keycaps in carbon colourway~~
 * XDA keycaps in cream/orange/grey
+* Kailh Speed Switches - Bronze
 
 It took me a while to get it all soldered correctly, but the split is great to type with, and I'm slowly getting used to the layered layout. I have since bought two staggered split boards, so the worries of expense and plastic waste have not been alleviated, but it feels and sounds a lot nicer to type!
 
