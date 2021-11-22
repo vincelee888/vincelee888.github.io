@@ -25,4 +25,4 @@ This first place had countless crappy clients, won over by the sales pitch of a 
 
 3/10 - good laugh at times, but wasted so much of my time and energy.
 
-# 
+#
