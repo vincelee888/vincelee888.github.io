@@ -35,4 +35,4 @@ It took me a while to get it all soldered correctly, but the split is great to t
 
 ---
 
-Update: Inspired by someone at work, I'm now using the ~~Colemak-DH~~ [Workman layout](https://workmanlayout.org/). Pretty slow going but can see the potential!
+Update: Inspired by someone at work, I'm now using the ~~Colemak-DH~~ [Workman layout](https://workmanlayout.org/) ([qmk files here](https://github.com/vincelee888/lily58_bongocat)). Pretty slow going but can see the potential!
